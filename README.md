@@ -130,6 +130,10 @@ This will display what needs to happen for the rule to trigger, and when it does
 
 # Conclusion:
 
+Furthered my education and understanding of Microsoft Defender XDR and Microsoft Sentinel for hybrid security incident detection and response.
+Gathered incident details, including malware signatures and affected resources, and applied remediation steps.
+Utilized automated playbooks and quick fixes to secure Azure resources and block further threats.
+Investigated the attacker's entry point and used mapping and automation tools to streamline the incident response process.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
