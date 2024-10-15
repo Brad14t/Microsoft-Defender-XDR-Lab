@@ -16,6 +16,8 @@ In this interactive lab, I learned how to use Microsoft Defender XDR and Microso
 - Investigate Feature
 - Alerts and Automation Rules
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Walkthrough:
 
 Following along in an interactive lab to demonstrate Microsoft Defender XDR and Microsoft Sentinel working together to investigate a security incident in a hybrid environment
