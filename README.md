@@ -5,7 +5,16 @@ Microsoft SC-200: Microsoft Security Analyst Interactive lab.
 
 In this interactive lab, I learned how to use Microsoft Defender XDR and Microsoft Sentinel to investigate and mitigate a security incident in a hybrid environment. I began by selecting the most severe incident in Azure Sentinel and viewed detailed information, including resource IDs and malware details, using Microsoft Defender's XDR capabilities. After gathering incident details, I was guided through remediation steps, including using quick fix logic to block public access to Azure Storage accounts. I also explored deeper investigation methods by using Sentinel's "Investigate" feature, which provided a visual map of the affected components. This allowed me to trace and mitigate further malicious activities, including discovering linked malicious storage artifacts. By integrating playbooks, I automated the process of identifying and blocking new threat indicators. The lab also demonstrated how to track the attacker's entry point via suspicious Office app alerts and how to apply mitigation measures across the environment. Overall, I gained valuable hands-on experience in using Azure security tools to identify, analyze, and remediate threats efficiently.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Utilities:
+
+- Microsoft Defender XDR
+- Microsoft Sentinel
+- Azure Environment
+- Playbooks
+- Quick Fix Logic
+- Investigate Feature
+- Alerts and Automation Rules
 
 # Walkthrough:
 
